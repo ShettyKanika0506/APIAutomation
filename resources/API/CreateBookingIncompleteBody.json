@@ -1,0 +1,9 @@
+{
+    "firstname" : "Test",
+    "lastname" : "User",
+    "totalprice" : 100,
+    "depositpaid" : true,
+    "bookingdates" : {
+    },
+    "addition" : "Breakfast"
+}
